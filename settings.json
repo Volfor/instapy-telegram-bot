@@ -1,5 +1,6 @@
 {
     "telegram_token": "your telegran bot token from @BotFather",
+    "instapy_folder": "path to folder with InstaPy",
     "allowed_ids": [
         "your chat_id from @GiveChatId_Bot",
         "another chat_id if needed"
