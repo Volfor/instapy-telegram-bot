@@ -1,0 +1,7 @@
+{
+    "telegram_token": "your telegran bot token from @BotFather",
+    "allowed_ids": [
+        "your chat_id from @GiveChatId_Bot",
+        "another chat_id if needed"
+    ]
+}
